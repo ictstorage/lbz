@@ -18,3 +18,6 @@ filebench测试脚本：filebench-test/auto-fb-test.sh文件
 SQLite负载测试脚本：sqlite-test/auto-mobi-db-test-iud.sh文件
 
 fio测试脚本：auto-fio-test.sh
+
+## 联系方式
+If you have any question about the open-sourced code, please feel free to contact: jiangdejun@ict.ac.cn 
