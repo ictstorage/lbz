@@ -6,6 +6,11 @@ src目录：lbz基础版本，默认支持将所有用户写转换为对ZNS SSD�
 
 tests目录：自动化脚本
 
+## 测试环境
+代码运行测试使用的内核和ZNS SSD如下:
+1. 内核：Fedora 35，内核 5.14.10-300.fc35.x86_64
+2. ZNS SSD: Western Digital Ultrastar DC ZN540
+
 ## 设备创建
 参考代码中的create.sh脚本
 	
